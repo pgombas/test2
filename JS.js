@@ -16,6 +16,6 @@ link.style.backgroundColor="green";
 link.style.color="white";
 link.href="https://www.youtube.com";
 document.getElementById("1").appendChild(link);
-window.console.log("hi");
+
 
 //endregion
