@@ -19,3 +19,5 @@ document.getElementById("1").appendChild(link);
 
 
 //endregion
+
+alert("Programmierwoche 6");
